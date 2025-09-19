@@ -1,0 +1,12 @@
+flowchart TD
+    U[UserInputNode: Enter topic]
+    U --> R1[Round 1: Scientist]
+    R1 --> R2[Round 2: Philosopher]
+    R2 --> R3[Round 3: Scientist]
+    R3 --> R4[Round 4: Philosopher]
+    R4 --> R5[Round 5: Scientist]
+    R5 --> R6[Round 6: Philosopher]
+    R6 --> R7[Round 7: Scientist]
+    R7 --> R8[Round 8: Philosopher]
+    R8 --> J[JudgeNode: Summarize & Decide]
+    J --> L[Logs & Final Verdict]

@@ -1,0 +1,375 @@
+2025-09-18 15:23:41,731 [INFO] Starting debate on topic: education
+2025-09-18 15:23:41,731 [INFO] [UserInputNode] Topic set: education
+2025-09-18 15:23:41,731 [INFO] [AgentNode] Round 1 Scientist: Given empirical evidence and risk analysis, Scientist argues that regulation regarding education is important. However, this does not mean Scientist claims this is tied to .
+2025-09-18 15:23:41,731 [DEBUG] [MemoryNode] Updated memory for Scientist: Scientist summary: Given empirical evidence and risk analysis, Scientist argues that regulation regarding education is important. However, this does not mean Scientist claims this is tied to.
+2025-09-18 15:23:41,731 [INFO] [Round 1] Scientist: Given empirical evidence and risk analysis, Scientist argues that regulation regarding education is important. However, this does not mean Scientist claims this is tied to .
+2025-09-18 15:23:41,743 [INFO] [AgentNode] Round 2 Philosopher: Philosophically speaking, Philosopher argues that regulation regarding education is important. But we should also consider Philosopher claims this is tied to .
+2025-09-18 15:23:41,743 [DEBUG] [MemoryNode] Updated memory for Philosopher: Philosopher summary: Philosophically speaking, Philosopher argues that regulation regarding education is important. But we should also consider Philosopher claims this is tied to.
+2025-09-18 15:23:41,746 [INFO] [Round 2] Philosopher: Philosophically speaking, Philosopher argues that regulation regarding education is important. But we should also consider Philosopher claims this is tied to .
+2025-09-18 15:23:41,746 [INFO] [AgentNode] Round 3 Scientist: Based on observed failure modes in complex systems, Scientist argues that regulation regarding education is important. Yet this raises the concern that Scientist claims this is tied to Scientist summary: Given empirical evidence and risk analysis, Scientist argues that regulation regarding education is i.
+2025-09-18 15:23:41,750 [DEBUG] [MemoryNode] Updated memory for Scientist: Scientist summary: Given empirical evidence and risk analysis, Scientist argues that regulation regarding education is important. However, this does not mean Scientist claims this is tied to. Based on observed failure modes in complex systems, Scientist argues that regulation regarding education is important.
+2025-09-18 15:23:41,750 [INFO] [Round 3] Scientist: Based on observed failure modes in complex systems, Scientist argues that regulation regarding education is important. Yet this raises the concern that Scientist claims this is tied to Scientist summary: Given empirical evidence and risk analysis, Scientist argues that regulation regarding education is i.
+2025-09-18 15:23:41,750 [INFO] [AgentNode] Round 4 Philosopher: Reflecting on moral principles and unintended consequences, Philosopher argues that regulation regarding education is important. On the other hand, Philosopher claims this is tied to Philosopher summary: Philosophically speaking, Philosopher argues that regulation regarding education is important. But .
+2025-09-18 15:23:41,750 [DEBUG] [MemoryNode] Updated memory for Philosopher: Philosopher summary: Philosophically speaking, Philosopher argues that regulation regarding education is important. But we should also consider Philosopher claims this is tied to. Reflecting on moral principles and unintended consequences, Philosopher argues that regulation regarding education is important.
+2025-09-18 15:23:41,750 [INFO] [Round 4] Philosopher: Reflecting on moral principles and unintended consequences, Philosopher argues that regulation regarding education is important. On the other hand, Philosopher claims this is tied to Philosopher summary: Philosophically speaking, Philosopher argues that regulation regarding education is important. But .
+2025-09-18 15:23:41,750 [INFO] [AgentNode] Round 5 Scientist: Given empirical evidence and risk analysis, Scientist argues that regulation regarding education is important. However, this does not mean Scientist claims this is tied to Scientist summary: Given empirical evidence and risk analysis, Scientist argues that regulation regarding education is i.
+2025-09-18 15:23:41,759 [DEBUG] [MemoryNode] Updated memory for Scientist: Scientist summary: Given empirical evidence and risk analysis, Scientist argues that regulation regarding education is important. However, this does not mean Scientist claims this is tied to. Based on observed failure modes in complex systems, Scientist argues that regulation regarding education is important.
+2025-09-18 15:23:41,759 [INFO] [Round 5] Scientist: Given empirical evidence and risk analysis, Scientist argues that regulation regarding education is important. However, this does not mean Scientist claims this is tied to Scientist summary: Given empirical evidence and risk analysis, Scientist argues that regulation regarding education is i.
+2025-09-18 15:23:41,759 [INFO] [AgentNode] Round 6 Philosopher: Philosophically speaking, Philosopher argues that regulation regarding education is important. But we should also consider Philosopher claims this is tied to Philosopher summary: Philosophically speaking, Philosopher argues that regulation regarding education is important. But .
+2025-09-18 15:23:41,759 [DEBUG] [MemoryNode] Updated memory for Philosopher: Philosopher summary: Philosophically speaking, Philosopher argues that regulation regarding education is important. But we should also consider Philosopher claims this is tied to. Reflecting on moral principles and unintended consequences, Philosopher argues that regulation regarding education is important.
+2025-09-18 15:23:41,759 [INFO] [Round 6] Philosopher: Philosophically speaking, Philosopher argues that regulation regarding education is important. But we should also consider Philosopher claims this is tied to Philosopher summary: Philosophically speaking, Philosopher argues that regulation regarding education is important. But .
+2025-09-18 15:23:41,759 [INFO] [AgentNode] Round 7 Scientist: Based on observed failure modes in complex systems, Scientist argues that regulation regarding education is important. Yet this raises the concern that Scientist claims this is tied to Scientist summary: Given empirical evidence and risk analysis, Scientist argues that regulation regarding education is i.
+2025-09-18 15:23:41,759 [WARNING] Repetition detected: Scientist repeated an earlier argument verbatim.
+2025-09-18 15:23:41,759 [DEBUG] [MemoryNode] Updated memory for Scientist: Scientist summary: Given empirical evidence and risk analysis, Scientist argues that regulation regarding education is important. However, this does not mean Scientist claims this is tied to. Based on observed failure modes in complex systems, Scientist argues that regulation regarding education is important.
+2025-09-18 15:23:41,759 [INFO] [Round 7] Scientist: Based on observed failure modes in complex systems, Scientist argues that regulation regarding education is important. Yet this raises the concern that Scientist claims this is tied to Scientist summary: Given empirical evidence and risk analysis, Scientist argues that regulation regarding education is i.
+2025-09-18 15:23:41,772 [ERROR] Validation errors encountered before round 8: ['Repetition detected: Scientist repeated an earlier argument verbatim.']
+2025-09-18 15:23:41,772 [INFO] [JudgeNode] Winner: Tie
+2025-09-18 15:23:41,772 [INFO] [JudgeNode] Reason: Scores tied (9 each). Judge declares a tie based on available heuristics.
+2025-09-18 15:23:41,775 [INFO] [Judge] Summary of debate:
+Debate summary:
+Scientist: Scientist summary: Given empirical evidence and risk analysis, Scientist argues that regulation regarding education is important. However, this does not mean Scientist claims this is tied to. Based on observed failure modes in complex systems, Scientist argues that regulation regarding education is important.
+Philosopher: Philosopher summary: Philosophically speaking, Philosopher argues that regulation regarding education is important. But we should also consider Philosopher claims this is tied to. Reflecting on moral principles and unintended consequences, Philosopher argues that regulation regarding education is important.
+
+2025-09-18 15:23:41,775 [INFO] [Judge] Winner: Tie
+Reason: Scores tied (9 each). Judge declares a tie based on available heuristics.
+2025-09-18 15:23:41,776 [INFO] Wrote final result to final_debate_result.json
+2025-09-18 15:23:41,776 [INFO] Debate finished. Logs: debate_log.txt, debate_state_snapshots.jsonl, final_debate_result.json
+2025-09-18 15:25:10,930 [INFO] Starting debate on topic: poverty and politics
+2025-09-18 15:25:10,930 [INFO] [UserInputNode] Topic set: poverty and politics
+2025-09-18 15:25:10,930 [INFO] [AgentNode] Round 1 Scientist: Given empirical evidence and risk analysis, Scientist argues that regulation regarding poverty politics is important. However, this does not mean Scientist claims this is tied to .
+2025-09-18 15:25:10,930 [DEBUG] [MemoryNode] Updated memory for Scientist: Scientist summary: Given empirical evidence and risk analysis, Scientist argues that regulation regarding poverty politics is important. However, this does not mean Scientist claims this is tied to.
+2025-09-18 15:25:10,930 [INFO] [Round 1] Scientist: Given empirical evidence and risk analysis, Scientist argues that regulation regarding poverty politics is important. However, this does not mean Scientist claims this is tied to .
+2025-09-18 15:25:10,930 [INFO] [AgentNode] Round 2 Philosopher: Philosophically speaking, Philosopher argues that regulation regarding poverty politics is important. But we should also consider Philosopher claims this is tied to .
+2025-09-18 15:25:10,930 [DEBUG] [MemoryNode] Updated memory for Philosopher: Philosopher summary: Philosophically speaking, Philosopher argues that regulation regarding poverty politics is important. But we should also consider Philosopher claims this is tied to.
+2025-09-18 15:25:10,930 [INFO] [Round 2] Philosopher: Philosophically speaking, Philosopher argues that regulation regarding poverty politics is important. But we should also consider Philosopher claims this is tied to .
+2025-09-18 15:25:10,930 [INFO] [AgentNode] Round 3 Scientist: Based on observed failure modes in complex systems, Scientist argues that regulation regarding poverty politics is important. Yet this raises the concern that Scientist claims this is tied to Scientist summary: Given empirical evidence and risk analysis, Scientist argues that regulation regarding poverty politi.
+2025-09-18 15:25:10,944 [DEBUG] [MemoryNode] Updated memory for Scientist: Scientist summary: Given empirical evidence and risk analysis, Scientist argues that regulation regarding poverty politics is important. However, this does not mean Scientist claims this is tied to. Based on observed failure modes in complex systems, Scientist argues that regulation regarding poverty politics is important.
+2025-09-18 15:25:10,944 [INFO] [Round 3] Scientist: Based on observed failure modes in complex systems, Scientist argues that regulation regarding poverty politics is important. Yet this raises the concern that Scientist claims this is tied to Scientist summary: Given empirical evidence and risk analysis, Scientist argues that regulation regarding poverty politi.
+2025-09-18 15:25:10,947 [INFO] [AgentNode] Round 4 Philosopher: Reflecting on moral principles and unintended consequences, Philosopher argues that regulation regarding poverty politics is important. On the other hand, Philosopher claims this is tied to Philosopher summary: Philosophically speaking, Philosopher argues that regulation regarding poverty politics is importan.
+2025-09-18 15:25:10,947 [DEBUG] [MemoryNode] Updated memory for Philosopher: Philosopher summary: Philosophically speaking, Philosopher argues that regulation regarding poverty politics is important. But we should also consider Philosopher claims this is tied to. Reflecting on moral principles and unintended consequences, Philosopher argues that regulation regarding poverty politics is important.
+2025-09-18 15:25:10,947 [INFO] [Round 4] Philosopher: Reflecting on moral principles and unintended consequences, Philosopher argues that regulation regarding poverty politics is important. On the other hand, Philosopher claims this is tied to Philosopher summary: Philosophically speaking, Philosopher argues that regulation regarding poverty politics is importan.
+2025-09-18 15:25:10,947 [INFO] [AgentNode] Round 5 Scientist: Given empirical evidence and risk analysis, Scientist argues that regulation regarding poverty politics is important. However, this does not mean Scientist claims this is tied to Scientist summary: Given empirical evidence and risk analysis, Scientist argues that regulation regarding poverty politi.
+2025-09-18 15:25:10,952 [DEBUG] [MemoryNode] Updated memory for Scientist: Scientist summary: Given empirical evidence and risk analysis, Scientist argues that regulation regarding poverty politics is important. However, this does not mean Scientist claims this is tied to. Based on observed failure modes in complex systems, Scientist argues that regulation regarding poverty politics is important.
+2025-09-18 15:25:10,952 [INFO] [Round 5] Scientist: Given empirical evidence and risk analysis, Scientist argues that regulation regarding poverty politics is important. However, this does not mean Scientist claims this is tied to Scientist summary: Given empirical evidence and risk analysis, Scientist argues that regulation regarding poverty politi.
+2025-09-18 15:25:10,952 [INFO] [AgentNode] Round 6 Philosopher: Philosophically speaking, Philosopher argues that regulation regarding poverty politics is important. But we should also consider Philosopher claims this is tied to Philosopher summary: Philosophically speaking, Philosopher argues that regulation regarding poverty politics is importan.
+2025-09-18 15:25:10,952 [DEBUG] [MemoryNode] Updated memory for Philosopher: Philosopher summary: Philosophically speaking, Philosopher argues that regulation regarding poverty politics is important. But we should also consider Philosopher claims this is tied to. Reflecting on moral principles and unintended consequences, Philosopher argues that regulation regarding poverty politics is important.
+2025-09-18 15:25:10,952 [INFO] [Round 6] Philosopher: Philosophically speaking, Philosopher argues that regulation regarding poverty politics is important. But we should also consider Philosopher claims this is tied to Philosopher summary: Philosophically speaking, Philosopher argues that regulation regarding poverty politics is importan.
+2025-09-18 15:25:10,962 [INFO] [AgentNode] Round 7 Scientist: Based on observed failure modes in complex systems, Scientist argues that regulation regarding poverty politics is important. Yet this raises the concern that Scientist claims this is tied to Scientist summary: Given empirical evidence and risk analysis, Scientist argues that regulation regarding poverty politi.
+2025-09-18 15:25:10,962 [WARNING] Repetition detected: Scientist repeated an earlier argument verbatim.
+2025-09-18 15:25:10,962 [DEBUG] [MemoryNode] Updated memory for Scientist: Scientist summary: Given empirical evidence and risk analysis, Scientist argues that regulation regarding poverty politics is important. However, this does not mean Scientist claims this is tied to. Based on observed failure modes in complex systems, Scientist argues that regulation regarding poverty politics is important.
+2025-09-18 15:25:10,965 [INFO] [Round 7] Scientist: Based on observed failure modes in complex systems, Scientist argues that regulation regarding poverty politics is important. Yet this raises the concern that Scientist claims this is tied to Scientist summary: Given empirical evidence and risk analysis, Scientist argues that regulation regarding poverty politi.
+2025-09-18 15:25:10,965 [ERROR] Validation errors encountered before round 8: ['Repetition detected: Scientist repeated an earlier argument verbatim.']
+2025-09-18 15:25:10,965 [INFO] [JudgeNode] Winner: Tie
+2025-09-18 15:25:10,965 [INFO] [JudgeNode] Reason: Scores tied (9 each). Judge declares a tie based on available heuristics.
+2025-09-18 15:25:10,965 [INFO] [Judge] Summary of debate:
+Debate summary:
+Scientist: Scientist summary: Given empirical evidence and risk analysis, Scientist argues that regulation regarding poverty politics is important. However, this does not mean Scientist claims this is tied to. Based on observed failure modes in complex systems, Scientist argues that regulation regarding poverty politics is important.
+Philosopher: Philosopher summary: Philosophically speaking, Philosopher argues that regulation regarding poverty politics is important. But we should also consider Philosopher claims this is tied to. Reflecting on moral principles and unintended consequences, Philosopher argues that regulation regarding poverty politics is important.
+
+2025-09-18 15:25:10,965 [INFO] [Judge] Winner: Tie
+Reason: Scores tied (9 each). Judge declares a tie based on available heuristics.
+2025-09-18 15:25:10,965 [INFO] Wrote final result to final_debate_result.json
+2025-09-18 15:25:10,971 [INFO] Debate finished. Logs: debate_log.txt, debate_state_snapshots.jsonl, final_debate_result.json
+2025-09-18 15:29:28,863 [INFO] Starting debate on topic: women empowerment in this generation.
+2025-09-18 15:29:28,863 [INFO] [UserInputNode] Topic set: women empowerment in this generation.
+2025-09-18 15:29:28,863 [INFO] [AgentNode] Round 1 Scientist: Given empirical evidence and risk analysis, Scientist argues that regulation regarding women empowerment generation is important. However, this does not mean Scientist claims this is tied to .
+2025-09-18 15:29:28,863 [DEBUG] [MemoryNode] Updated memory for Scientist: Scientist summary: Given empirical evidence and risk analysis, Scientist argues that regulation regarding women empowerment generation is important. However, this does not mean Scientist claims this is tied to.
+2025-09-18 15:29:28,863 [INFO] [Round 1] Scientist: Given empirical evidence and risk analysis, Scientist argues that regulation regarding women empowerment generation is important. However, this does not mean Scientist claims this is tied to .
+2025-09-18 15:29:28,863 [INFO] [AgentNode] Round 2 Philosopher: Philosophically speaking, Philosopher argues that regulation regarding women empowerment generation is important. But we should also consider Philosopher claims this is tied to .
+2025-09-18 15:29:28,874 [DEBUG] [MemoryNode] Updated memory for Philosopher: Philosopher summary: Philosophically speaking, Philosopher argues that regulation regarding women empowerment generation is important. But we should also consider Philosopher claims this is tied to.
+2025-09-18 15:29:28,874 [INFO] [Round 2] Philosopher: Philosophically speaking, Philosopher argues that regulation regarding women empowerment generation is important. But we should also consider Philosopher claims this is tied to .
+2025-09-18 15:29:28,874 [INFO] [AgentNode] Round 3 Scientist: Based on observed failure modes in complex systems, Scientist argues that regulation regarding women empowerment generation is important. Yet this raises the concern that Scientist claims this is tied to Scientist summary: Given empirical evidence and risk analysis, Scientist argues that regulation regarding women empowerm.
+2025-09-18 15:29:28,874 [DEBUG] [MemoryNode] Updated memory for Scientist: Scientist summary: Given empirical evidence and risk analysis, Scientist argues that regulation regarding women empowerment generation is important. However, this does not mean Scientist claims this is tied to. Based on observed failure modes in complex systems, Scientist argues that regulation regarding women empowerment generation is important.
+2025-09-18 15:29:28,874 [INFO] [Round 3] Scientist: Based on observed failure modes in complex systems, Scientist argues that regulation regarding women empowerment generation is important. Yet this raises the concern that Scientist claims this is tied to Scientist summary: Given empirical evidence and risk analysis, Scientist argues that regulation regarding women empowerm.
+2025-09-18 15:29:28,874 [INFO] [AgentNode] Round 4 Philosopher: Reflecting on moral principles and unintended consequences, Philosopher argues that regulation regarding women empowerment generation is important. On the other hand, Philosopher claims this is tied to Philosopher summary: Philosophically speaking, Philosopher argues that regulation regarding women empowerment generation.
+2025-09-18 15:29:28,885 [DEBUG] [MemoryNode] Updated memory for Philosopher: Philosopher summary: Philosophically speaking, Philosopher argues that regulation regarding women empowerment generation is important. But we should also consider Philosopher claims this is tied to. Reflecting on moral principles and unintended consequences, Philosopher argues that regulation regarding women empowerment generation is important.
+2025-09-18 15:29:28,887 [INFO] [Round 4] Philosopher: Reflecting on moral principles and unintended consequences, Philosopher argues that regulation regarding women empowerment generation is important. On the other hand, Philosopher claims this is tied to Philosopher summary: Philosophically speaking, Philosopher argues that regulation regarding women empowerment generation.
+2025-09-18 15:29:28,890 [INFO] [AgentNode] Round 5 Scientist: Given empirical evidence and risk analysis, Scientist argues that regulation regarding women empowerment generation is important. However, this does not mean Scientist claims this is tied to Scientist summary: Given empirical evidence and risk analysis, Scientist argues that regulation regarding women empowerm.
+2025-09-18 15:29:28,894 [DEBUG] [MemoryNode] Updated memory for Scientist: Scientist summary: Given empirical evidence and risk analysis, Scientist argues that regulation regarding women empowerment generation is important. However, this does not mean Scientist claims this is tied to. Based on observed failure modes in complex systems, Scientist argues that regulation regarding women empowerment generation is important.
+2025-09-18 15:29:28,894 [INFO] [Round 5] Scientist: Given empirical evidence and risk analysis, Scientist argues that regulation regarding women empowerment generation is important. However, this does not mean Scientist claims this is tied to Scientist summary: Given empirical evidence and risk analysis, Scientist argues that regulation regarding women empowerm.
+2025-09-18 15:29:28,894 [INFO] [AgentNode] Round 6 Philosopher: Philosophically speaking, Philosopher argues that regulation regarding women empowerment generation is important. But we should also consider Philosopher claims this is tied to Philosopher summary: Philosophically speaking, Philosopher argues that regulation regarding women empowerment generation.
+2025-09-18 15:29:28,894 [DEBUG] [MemoryNode] Updated memory for Philosopher: Philosopher summary: Philosophically speaking, Philosopher argues that regulation regarding women empowerment generation is important. But we should also consider Philosopher claims this is tied to. Reflecting on moral principles and unintended consequences, Philosopher argues that regulation regarding women empowerment generation is important.
+2025-09-18 15:29:28,894 [INFO] [Round 6] Philosopher: Philosophically speaking, Philosopher argues that regulation regarding women empowerment generation is important. But we should also consider Philosopher claims this is tied to Philosopher summary: Philosophically speaking, Philosopher argues that regulation regarding women empowerment generation.
+2025-09-18 15:29:28,894 [INFO] [AgentNode] Round 7 Scientist: Based on observed failure modes in complex systems, Scientist argues that regulation regarding women empowerment generation is important. Yet this raises the concern that Scientist claims this is tied to Scientist summary: Given empirical evidence and risk analysis, Scientist argues that regulation regarding women empowerm.
+2025-09-18 15:29:28,906 [WARNING] Repetition detected: Scientist repeated an earlier argument verbatim.
+2025-09-18 15:29:28,906 [DEBUG] [MemoryNode] Updated memory for Scientist: Scientist summary: Given empirical evidence and risk analysis, Scientist argues that regulation regarding women empowerment generation is important. However, this does not mean Scientist claims this is tied to. Based on observed failure modes in complex systems, Scientist argues that regulation regarding women empowerment generation is important.
+2025-09-18 15:29:28,906 [INFO] [Round 7] Scientist: Based on observed failure modes in complex systems, Scientist argues that regulation regarding women empowerment generation is important. Yet this raises the concern that Scientist claims this is tied to Scientist summary: Given empirical evidence and risk analysis, Scientist argues that regulation regarding women empowerm.
+2025-09-18 15:29:28,906 [INFO] [AgentNode] Round 8 Philosopher: Reflecting on moral principles and unintended consequences, Philosopher argues that regulation regarding women empowerment generation is important. On the other hand, Philosopher claims this is tied to Philosopher summary: Philosophically speaking, Philosopher argues that regulation regarding women empowerment generation.
+2025-09-18 15:29:28,906 [WARNING] Repetition detected: Philosopher repeated an earlier argument verbatim.
+2025-09-18 15:29:28,906 [DEBUG] [MemoryNode] Updated memory for Philosopher: Philosopher summary: Philosophically speaking, Philosopher argues that regulation regarding women empowerment generation is important. But we should also consider Philosopher claims this is tied to. Reflecting on moral principles and unintended consequences, Philosopher argues that regulation regarding women empowerment generation is important.
+2025-09-18 15:29:28,906 [INFO] [Round 8] Philosopher: Reflecting on moral principles and unintended consequences, Philosopher argues that regulation regarding women empowerment generation is important. On the other hand, Philosopher claims this is tied to Philosopher summary: Philosophically speaking, Philosopher argues that regulation regarding women empowerment generation.
+2025-09-18 15:29:28,906 [INFO] [JudgeNode] Winner: Tie
+2025-09-18 15:29:28,906 [INFO] [JudgeNode] Reason: Scores tied (9 each). Judge declares a tie based on available heuristics.
+2025-09-18 15:29:28,906 [INFO] [Judge] Summary of debate:
+Debate summary:
+Scientist: Scientist summary: Given empirical evidence and risk analysis, Scientist argues that regulation regarding women empowerment generation is important. However, this does not mean Scientist claims this is tied to. Based on observed failure modes in complex systems, Scientist argues that regulation regarding women empowerment generation is important.
+Philosopher: Philosopher summary: Philosophically speaking, Philosopher argues that regulation regarding women empowerment generation is important. But we should also consider Philosopher claims this is tied to. Reflecting on moral principles and unintended consequences, Philosopher argues that regulation regarding women empowerment generation is important.
+
+2025-09-18 15:29:28,906 [INFO] [Judge] Winner: Tie
+Reason: Scores tied (9 each). Judge declares a tie based on available heuristics.
+2025-09-18 15:29:28,922 [INFO] Wrote final result to final_debate_result.json
+2025-09-18 15:29:28,922 [INFO] Debate finished. Logs: debate_log.txt, debate_state_snapshots.jsonl, final_debate_result.json
+2025-09-18 15:44:16,378 [INFO] Starting debate on topic: does internet effect children?
+2025-09-18 15:44:16,394 [INFO] [UserInputNode] Topic set: does internet effect children?
+2025-09-18 15:44:16,394 [INFO] [AgentNode] Round 1 Scientist: Based on data and experiments, Scientist argues that does internet effect must be addressed carefully. However, this relates to.
+2025-09-18 15:44:16,394 [DEBUG] [MemoryNode] Updated memory for Scientist
+2025-09-18 15:44:16,394 [INFO] [Round 1] Scientist: Based on data and experiments, Scientist argues that does internet effect must be addressed carefully. However, this relates to.
+2025-09-18 15:44:16,394 [INFO] [AgentNode] Round 2 Philosopher: Philosophically speaking, Philosopher argues that does internet effect must be addressed carefully. But, this relates to.
+2025-09-18 15:44:16,394 [DEBUG] [MemoryNode] Updated memory for Philosopher
+2025-09-18 15:44:16,394 [INFO] [Round 2] Philosopher: Philosophically speaking, Philosopher argues that does internet effect must be addressed carefully. But, this relates to.
+2025-09-18 15:44:16,394 [INFO] [AgentNode] Round 3 Scientist: Considering statistical risk, Scientist argues that does internet effect must be addressed carefully. Yet, this relates to (mem: Based on data and experiments, Scientist argues that does internet effect must b).
+2025-09-18 15:44:16,394 [DEBUG] [MemoryNode] Updated memory for Scientist
+2025-09-18 15:44:16,394 [INFO] [Round 3] Scientist: Considering statistical risk, Scientist argues that does internet effect must be addressed carefully. Yet, this relates to (mem: Based on data and experiments, Scientist argues that does internet effect must b).
+2025-09-18 15:44:16,394 [INFO] [AgentNode] Round 4 Philosopher: Reflecting on morality, Philosopher argues that does internet effect must be addressed carefully. On the other hand, this relates to (mem: Philosophically speaking, Philosopher argues that does internet effect must be a).
+2025-09-18 15:44:16,410 [DEBUG] [MemoryNode] Updated memory for Philosopher
+2025-09-18 15:44:16,410 [INFO] [Round 4] Philosopher: Reflecting on morality, Philosopher argues that does internet effect must be addressed carefully. On the other hand, this relates to (mem: Philosophically speaking, Philosopher argues that does internet effect must be a).
+2025-09-18 15:44:16,410 [INFO] [AgentNode] Round 5 Scientist: Based on data and experiments, Scientist argues that does internet effect must be addressed carefully. However, this relates to (mem: Based on data and experiments, Scientist argues that does internet effect must b).
+2025-09-18 15:44:16,415 [DEBUG] [MemoryNode] Updated memory for Scientist
+2025-09-18 15:44:16,415 [INFO] [Round 5] Scientist: Based on data and experiments, Scientist argues that does internet effect must be addressed carefully. However, this relates to (mem: Based on data and experiments, Scientist argues that does internet effect must b).
+2025-09-18 15:44:16,415 [INFO] [AgentNode] Round 6 Philosopher: Philosophically speaking, Philosopher argues that does internet effect must be addressed carefully. But, this relates to (mem: Philosophically speaking, Philosopher argues that does internet effect must be a).
+2025-09-18 15:44:16,415 [DEBUG] [MemoryNode] Updated memory for Philosopher
+2025-09-18 15:44:16,415 [INFO] [Round 6] Philosopher: Philosophically speaking, Philosopher argues that does internet effect must be addressed carefully. But, this relates to (mem: Philosophically speaking, Philosopher argues that does internet effect must be a).
+2025-09-18 15:44:16,415 [INFO] [AgentNode] Round 7 Scientist: Considering statistical risk, Scientist argues that does internet effect must be addressed carefully. Yet, this relates to (mem: Considering statistical risk, Scientist argues that does internet effect must be).
+2025-09-18 15:44:16,415 [DEBUG] [MemoryNode] Updated memory for Scientist
+2025-09-18 15:44:16,415 [INFO] [Round 7] Scientist: Considering statistical risk, Scientist argues that does internet effect must be addressed carefully. Yet, this relates to (mem: Considering statistical risk, Scientist argues that does internet effect must be).
+2025-09-18 15:44:16,426 [INFO] [AgentNode] Round 8 Philosopher: Reflecting on morality, Philosopher argues that does internet effect must be addressed carefully. On the other hand, this relates to (mem: Reflecting on morality, Philosopher argues that does internet effect must be add).
+2025-09-18 15:44:16,426 [DEBUG] [MemoryNode] Updated memory for Philosopher
+2025-09-18 15:44:16,426 [INFO] [Round 8] Philosopher: Reflecting on morality, Philosopher argues that does internet effect must be addressed carefully. On the other hand, this relates to (mem: Reflecting on morality, Philosopher argues that does internet effect must be add).
+2025-09-18 15:44:16,426 [INFO] [JudgeNode] Winner: Scientist
+2025-09-18 15:44:16,426 [INFO] [JudgeNode] Reason: Scientist wins (28 vs 16) — stronger evidence-style content and keyword usage.
+2025-09-18 15:44:16,426 [INFO] [Judge] Summary:
+Debate summary:
+Scientist: Based on data and experiments, Scientist argues that does internet effect must be addressed carefully. However, this relates to (mem: Based on data and experiments, Scientist argues that does internet effect must b). Considering statistical risk, Scientist argues that does internet effect must be addressed carefully. Yet, this relates to (mem: Considering statistical risk, Scientist argues that does internet effect must be).
+Philosopher: Philosophically speaking, Philosopher argues that does internet effect must be addressed carefully. But, this relates to (mem: Philosophically speaking, Philosopher argues that does internet effect must be a). Reflecting on morality, Philosopher argues that does internet effect must be addressed carefully. On the other hand, this relates to (mem: Reflecting on morality, Philosopher argues that does internet effect must be add).
+2025-09-18 15:44:16,426 [INFO] [Judge] Winner: Scientist
+Reason: Scientist wins (28 vs 16) — stronger evidence-style content and keyword usage.
+2025-09-18 15:44:16,426 [INFO] Wrote final result to final_debate_result.json
+2025-09-19 00:33:30,548 [INFO] Starting debate between Scientist and Philosopher...
+2025-09-19 00:33:30,553 [INFO] Starting debate between Scientist and Philosopher...
+2025-09-19 00:33:30,556 [INFO] [Round 1] Scientist: politics effecting youth must be regulated due to high-risk applications.
+2025-09-19 00:33:30,556 [INFO] [Round 2] Philosopher: Regulation could stifle philosophical progress and autonomy in politics effecting youth.
+2025-09-19 00:33:30,559 [INFO] [Round 3] Scientist: Without safeguards, politics effecting youth could cause harm in critical domains.
+2025-09-19 00:33:30,560 [INFO] [Round 4] Philosopher: Freedom of inquiry is essential, even in politics effecting youth.
+2025-09-19 00:33:30,560 [INFO] [Round 5] Scientist: Public safety demands strict oversight for politics effecting youth.
+2025-09-19 00:33:30,561 [INFO] [Round 6] Philosopher: Overregulation may suppress creativity and human values in politics effecting youth.
+2025-09-19 00:33:30,562 [INFO] [Round 7] Scientist: Evidence shows regulation reduces risks in politics effecting youth.
+2025-09-19 00:33:30,565 [INFO] [Round 8] Philosopher: History shows overregulation often delays societal evolution related to politics effecting youth.
+2025-09-19 00:33:30,566 [INFO] [Judge] Summary of debate:
+Scientist: politics effecting youth must be regulated due to high-risk applications. Without safeguards, politics effecting youth could cause harm in critical domains. Public safety demands strict oversight for politics effecting youth. Evidence shows regulation reduces risks in politics effecting youth.
+Philosopher: Regulation could stifle philosophical progress and autonomy in politics effecting youth. Freedom of inquiry is essential, even in politics effecting youth. Overregulation may suppress creativity and human values in politics effecting youth. History shows overregulation often delays societal evolution related to politics effecting youth.
+2025-09-19 00:33:30,566 [INFO] [Judge] Winner: Tie
+2025-09-19 00:33:30,567 [INFO] Reason: Both sides presented balanced arguments.
+2025-09-19 00:33:30,568 [INFO] [Judge] Winner: Tie
+2025-09-19 00:33:30,568 [INFO] Reason: Both sides presented balanced arguments.
+2025-09-19 00:33:30,570 [INFO] Wrote final result to final_debate_result.json
+2025-09-19 00:35:00,950 [INFO] Starting debate between Scientist and Philosopher...
+2025-09-19 00:35:00,951 [INFO] Starting debate between Scientist and Philosopher...
+2025-09-19 00:35:00,954 [INFO] [Round 1] Scientist: does internet effect children? must be regulated due to high-risk applications.
+2025-09-19 00:35:00,955 [INFO] [Round 2] Philosopher: Regulation could stifle philosophical progress and autonomy in does internet effect children?.
+2025-09-19 00:35:00,956 [INFO] [Round 3] Scientist: Without safeguards, does internet effect children? could cause harm in critical domains.
+2025-09-19 00:35:00,957 [INFO] [Round 4] Philosopher: Freedom of inquiry is essential, even in does internet effect children?.
+2025-09-19 00:35:00,959 [INFO] [Round 5] Scientist: Public safety demands strict oversight for does internet effect children?.
+2025-09-19 00:35:00,960 [INFO] [Round 6] Philosopher: Overregulation may suppress creativity and human values in does internet effect children?.
+2025-09-19 00:35:00,961 [INFO] [Round 7] Scientist: Evidence shows regulation reduces risks in does internet effect children?.
+2025-09-19 00:35:00,962 [INFO] [Round 8] Philosopher: History shows overregulation often delays societal evolution related to does internet effect children?.
+2025-09-19 00:35:00,964 [INFO] [Judge] Summary of debate:
+Scientist: does internet effect children? must be regulated due to high-risk applications. Without safeguards, does internet effect children? could cause harm in critical domains. Public safety demands strict oversight for does internet effect children?. Evidence shows regulation reduces risks in does internet effect children?.
+Philosopher: Regulation could stifle philosophical progress and autonomy in does internet effect children?. Freedom of inquiry is essential, even in does internet effect children?. Overregulation may suppress creativity and human values in does internet effect children?. History shows overregulation often delays societal evolution related to does internet effect children?.
+2025-09-19 00:35:00,964 [INFO] [Judge] Winner: Tie
+2025-09-19 00:35:00,965 [INFO] Reason: Both sides presented balanced arguments.
+2025-09-19 00:35:00,966 [INFO] [Judge] Winner: Tie
+2025-09-19 00:35:00,967 [INFO] Reason: Both sides presented balanced arguments.
+2025-09-19 00:35:00,968 [INFO] Wrote final result to final_debate_result.json
+2025-09-19 00:39:56,550 [INFO] [UserInputNode] Topic set: does internet effect youth?
+2025-09-19 00:39:56,553 [INFO] [Round 1] Scientist: does internet effect youth? must be regulated due to high-risk applications.
+2025-09-19 00:39:56,554 [DEBUG] [MemoryNode] Updated memory for Scientist
+2025-09-19 00:39:56,556 [INFO] [Round 2] Philosopher: Regulation could stifle philosophical progress and autonomy in does internet effect youth?.
+2025-09-19 00:39:56,557 [DEBUG] [MemoryNode] Updated memory for Philosopher
+2025-09-19 00:39:56,559 [INFO] [Round 3] Scientist: Without safeguards, does internet effect youth? could cause harm in critical domains.
+2025-09-19 00:39:56,562 [DEBUG] [MemoryNode] Updated memory for Scientist
+2025-09-19 00:39:56,564 [INFO] [Round 4] Philosopher: Freedom of inquiry is essential, even in does internet effect youth?.
+2025-09-19 00:39:56,567 [DEBUG] [MemoryNode] Updated memory for Philosopher
+2025-09-19 00:39:56,569 [INFO] [Round 5] Scientist: Public safety demands strict oversight for does internet effect youth?.
+2025-09-19 00:39:56,572 [DEBUG] [MemoryNode] Updated memory for Scientist
+2025-09-19 00:39:56,577 [INFO] [Round 6] Philosopher: Overregulation may suppress creativity and human values in does internet effect youth?.
+2025-09-19 00:39:56,580 [DEBUG] [MemoryNode] Updated memory for Philosopher
+2025-09-19 00:39:56,582 [INFO] [Round 7] Scientist: Evidence shows regulation reduces risks in does internet effect youth?.
+2025-09-19 00:39:56,585 [DEBUG] [MemoryNode] Updated memory for Scientist
+2025-09-19 00:39:56,586 [INFO] [Round 8] Philosopher: History shows overregulation often delays societal evolution related to does internet effect youth?.
+2025-09-19 00:39:56,589 [DEBUG] [MemoryNode] Updated memory for Philosopher
+2025-09-19 00:39:56,590 [INFO] [Judge] Summary of debate:
+Scientist: does internet effect youth? must be regulated due to high-risk applications. Without safeguards, does internet effect youth? could cause harm in critical domains. Public safety demands strict oversight for does internet effect youth?. Evidence shows regulation reduces risks in does internet effect youth?.
+Philosopher: Regulation could stifle philosophical progress and autonomy in does internet effect youth?. Freedom of inquiry is essential, even in does internet effect youth?. Overregulation may suppress creativity and human values in does internet effect youth?. History shows overregulation often delays societal evolution related to does internet effect youth?.
+2025-09-19 00:39:56,590 [INFO] [Judge] Winner: Tie
+2025-09-19 00:39:56,591 [INFO] Reason: Both sides presented balanced arguments.
+2025-09-19 00:39:56,592 [INFO] [Judge] Winner: Tie
+2025-09-19 00:39:56,592 [INFO] Reason: Both sides presented balanced arguments.
+2025-09-19 00:39:56,594 [INFO] Wrote final result to final_debate_result.json
+2025-09-19 00:47:09,696 [INFO] [UserInputNode] Topic set: politics and youth
+2025-09-19 00:47:09,699 [INFO] [Round 1] Scientist: Scientific evidence suggests that youth requires strict oversight to avoid risks.
+2025-09-19 00:47:09,701 [DEBUG] [MemoryNode] Updated memory for Scientist
+2025-09-19 00:47:09,702 [INFO] [Round 2] Philosopher: Ethically, restricting youth could limit human freedom and autonomy.
+2025-09-19 00:47:09,703 [DEBUG] [MemoryNode] Updated memory for Philosopher
+2025-09-19 00:47:09,705 [INFO] [Round 3] Scientist: Data shows potential dangers if youth is left unregulated.
+2025-09-19 00:47:09,709 [DEBUG] [MemoryNode] Updated memory for Scientist
+2025-09-19 00:47:09,710 [INFO] [Round 4] Philosopher: Philosophical reasoning shows that politics should allow space for creativity.
+2025-09-19 00:47:09,713 [DEBUG] [MemoryNode] Updated memory for Philosopher
+2025-09-19 00:47:09,715 [INFO] [Round 5] Scientist: From a safety perspective, politics must be managed carefully.
+2025-09-19 00:47:09,717 [DEBUG] [MemoryNode] Updated memory for Scientist
+2025-09-19 00:47:09,719 [INFO] [Round 6] Philosopher: Overregulation of youth risks suppressing human values and progress.
+2025-09-19 00:47:09,722 [DEBUG] [MemoryNode] Updated memory for Philosopher
+2025-09-19 00:47:09,724 [INFO] [Round 7] Scientist: Experiments highlight that politics can cause harm if not controlled.
+2025-09-19 00:47:09,726 [DEBUG] [MemoryNode] Updated memory for Scientist
+2025-09-19 00:47:09,728 [INFO] [Round 8] Philosopher: Freedom of thought requires that youth remain open to interpretation.
+2025-09-19 00:47:09,731 [DEBUG] [MemoryNode] Updated memory for Philosopher
+2025-09-19 00:47:09,731 [INFO] [Judge] Summary of debate:
+Scientist: Scientific evidence suggests that youth requires strict oversight to avoid risks. Data shows potential dangers if youth is left unregulated. From a safety perspective, politics must be managed carefully. Experiments highlight that politics can cause harm if not controlled.
+Philosopher: Ethically, restricting youth could limit human freedom and autonomy. Philosophical reasoning shows that politics should allow space for creativity. Overregulation of youth risks suppressing human values and progress. Freedom of thought requires that youth remain open to interpretation.
+2025-09-19 00:47:09,732 [INFO] [Judge] Winner: Philosopher
+2025-09-19 00:47:09,732 [INFO] Reason: Presented stronger ethical reasoning emphasizing freedom and creativity.
+2025-09-19 00:47:09,734 [INFO] [Judge] Winner: Philosopher
+2025-09-19 00:47:09,734 [INFO] Reason: Presented stronger ethical reasoning emphasizing freedom and creativity.
+2025-09-19 00:47:09,736 [INFO] Wrote final result to final_debate_result.json
+2025-09-19 00:51:57,491 [INFO] [UserInputNode] Topic set: liberty and youth
+2025-09-19 00:51:57,491 [INFO] [Round 1] Scientist: Scientific evidence shows liberty needs oversight to reduce risks.
+2025-09-19 00:51:57,491 [DEBUG] [MemoryNode] Updated memory for Scientist
+2025-09-19 00:51:57,491 [INFO] [Round 2] Philosopher: Ethically, restricting youth could undermine freedom and autonomy.
+2025-09-19 00:51:57,491 [DEBUG] [MemoryNode] Updated memory for Philosopher
+2025-09-19 00:51:57,491 [INFO] [Round 3] Scientist: Research indicates that liberty may cause unintended harm without safeguards.
+2025-09-19 00:51:57,491 [DEBUG] [MemoryNode] Updated memory for Scientist
+2025-09-19 00:51:57,507 [INFO] [Round 4] Philosopher: Philosophy shows youth should remain open to interpretation.
+2025-09-19 00:51:57,507 [DEBUG] [MemoryNode] Updated memory for Philosopher
+2025-09-19 00:51:57,507 [INFO] [Round 5] Scientist: From a safety perspective, society must regulate liberty.
+2025-09-19 00:51:57,507 [DEBUG] [MemoryNode] Updated memory for Scientist
+2025-09-19 00:51:57,507 [INFO] [Round 6] Philosopher: Overregulating youth risks suppressing creativity and human values.
+2025-09-19 00:51:57,507 [DEBUG] [MemoryNode] Updated memory for Philosopher
+2025-09-19 00:51:57,507 [INFO] [Round 7] Scientist: Experiments highlight dangers if liberty is left unchecked.
+2025-09-19 00:51:57,523 [DEBUG] [MemoryNode] Updated memory for Scientist
+2025-09-19 00:51:57,523 [INFO] [Round 8] Philosopher: History warns that strict control of youth delayed cultural evolution.
+2025-09-19 00:51:57,523 [DEBUG] [MemoryNode] Updated memory for Philosopher
+2025-09-19 00:51:57,523 [INFO] [Judge] Summary of debate:
+Scientist: Scientific evidence shows liberty needs oversight to reduce risks. Research indicates that liberty may cause unintended harm without safeguards. From a safety perspective, society must regulate liberty. Experiments highlight dangers if liberty is left unchecked.
+Philosopher: Ethically, restricting youth could undermine freedom and autonomy. Philosophy shows youth should remain open to interpretation. Overregulating youth risks suppressing creativity and human values. History warns that strict control of youth delayed cultural evolution.
+2025-09-19 00:51:57,523 [INFO] [Judge] Winner: Scientist
+2025-09-19 00:51:57,523 [INFO] Reason: Presented more grounded, risk-based arguments aligned with public safety principles.
+2025-09-19 00:51:57,523 [INFO] [Judge] Winner: Scientist
+2025-09-19 00:51:57,523 [INFO] Reason: Presented more grounded, risk-based arguments aligned with public safety principles.
+2025-09-19 00:51:57,523 [INFO] Wrote final result to final_debate_result.json
+2025-09-19 00:54:36,097 [INFO] Mermaid DAG diagram saved to diagram.md
+2025-09-19 01:07:17,396 [INFO] Starting debate between Scientist and Philosopher...
+2025-09-19 01:07:17,405 [INFO] [UserInputNode] Topic set: youth and drugs
+2025-09-19 01:07:17,416 [INFO] [Round 1] Scientist: AI evidence suggests youth poses measurable risks and needs oversight. Surveys and reports on youth highlight community concerns.
+2025-09-19 01:07:17,417 [DEBUG] [MemoryNode] Scientist summary updated.
+2025-09-19 01:07:17,418 [INFO] [Round 2] Philosopher: Restricting drugs risks undermining autonomy and philosophical inquiry. For example, recent studies about drugs show measurable effects.
+2025-09-19 01:07:17,422 [DEBUG] [MemoryNode] Philosopher summary updated.
+2025-09-19 01:07:17,423 [INFO] [Round 3] Scientist: Data indicates that youth can cause harms without safeguards.
+2025-09-19 01:07:17,426 [DEBUG] [MemoryNode] Scientist summary updated.
+2025-09-19 01:07:17,427 [INFO] [Round 4] Philosopher: Philosophically, the value of freedom around drugs must be preserved. For example, recent studies about drugs show measurable effects.
+2025-09-19 01:07:17,428 [DEBUG] [MemoryNode] Philosopher summary updated.
+2025-09-19 01:07:17,429 [INFO] [Round 5] Scientist: From a public-safety view, youth requires structured regulation. Consider historical cases involving youth that produced harm.
+2025-09-19 01:07:17,431 [DEBUG] [MemoryNode] Scientist summary updated.
+2025-09-19 01:07:17,432 [INFO] [Round 6] Philosopher: Excess control of drugs can stifle creativity and moral progress. Consider historical cases involving drugs that produced harm.
+2025-09-19 01:07:17,434 [DEBUG] [MemoryNode] Philosopher summary updated.
+2025-09-19 01:07:17,436 [INFO] [Round 7] Scientist: In conclusion, regulation mitigates risks associated with youth. For example, recent studies about youth show measurable effects.
+2025-09-19 01:07:17,438 [DEBUG] [MemoryNode] Scientist summary updated.
+2025-09-19 01:07:17,439 [INFO] [Round 8] Philosopher: In conclusion, preserving freedom around drugs supports human dignity. For example, recent studies about drugs show measurable effects.
+2025-09-19 01:07:17,441 [DEBUG] [MemoryNode] Philosopher summary updated.
+2025-09-19 01:07:17,442 [INFO] [Judge] Summary of debate:
+Summary of debate:
+Scientist: AI evidence suggests youth poses measurable risks and needs oversight. Surveys and reports on youth highlight community concerns. Data indicates that youth can cause harms without safeguards. From a public-safety view, youth requires structured regulation. Consider historical cases involving youth that produced harm. In conclusion, regulation mitigates risks associated with youth. For example, recent studies about youth show measurable effects.
+Philosopher: Restricting drugs risks undermining autonomy and philosophical inquiry. For example, recent studies about drugs show measurable effects. Philosophically, the value of freedom around drugs must be preserved. For example, recent studies about drugs show measurable effects. Excess control of drugs can stifle creativity and moral progress. Consider historical cases involving drugs that produced harm. In conclusion, preserving freedom around drugs supports human dignity. For example, recent studies about drugs show measurable effects.
+2025-09-19 01:07:17,442 [INFO] [Judge] Winner: Scientist
+2025-09-19 01:07:17,443 [INFO] Reason: Scores tied and validation equal; preferring Scientist for practical grounding.
+2025-09-19 01:07:17,444 [INFO] Wrote final result to final_debate_result.json
+2025-09-19 01:07:17,444 [INFO] Debate complete — outputs written to files.
+2025-09-19 01:07:33,317 [INFO] Wrote Mermaid diagram to diagram.md
+2025-09-19 01:07:33,319 [WARNING] Could not render Graphviz PNG (system Graphviz may be missing): failed to execute WindowsPath('dot'), make sure the Graphviz executables are on your systems' PATH
+2025-09-19 01:07:33,320 [INFO] Mermaid file is still available as diagram.md
+2025-09-19 01:08:38,489 [INFO] Wrote Mermaid diagram to diagram.md
+2025-09-19 01:08:38,503 [WARNING] Could not render Graphviz PNG (system Graphviz may be missing): failed to execute WindowsPath('dot'), make sure the Graphviz executables are on your systems' PATH
+2025-09-19 01:08:38,503 [INFO] Mermaid file is still available as diagram.md
+2025-09-19 01:21:41,956 [INFO] Wrote Mermaid diagram to diagram.md
+2025-09-19 01:21:41,958 [WARNING] Could not render Graphviz PNG (system Graphviz may be missing): failed to execute WindowsPath('dot'), make sure the Graphviz executables are on your systems' PATH
+2025-09-19 01:21:41,959 [INFO] Mermaid file is still available as diagram.md
+2025-09-19 01:22:27,583 [INFO] Starting debate between Scientist and Philosopher...
+2025-09-19 01:22:27,583 [INFO] [UserInputNode] Topic set: drugs and youth
+2025-09-19 01:22:27,586 [INFO] [Round 1] Scientist: AI evidence suggests drugs poses measurable risks and needs oversight. For example, recent studies about drugs show measurable effects.
+2025-09-19 01:22:27,588 [DEBUG] [MemoryNode] Scientist summary updated.
+2025-09-19 01:22:27,591 [INFO] [Round 2] Philosopher: Restricting youth risks undermining autonomy and philosophical inquiry.
+2025-09-19 01:22:27,592 [DEBUG] [MemoryNode] Philosopher summary updated.
+2025-09-19 01:22:27,595 [INFO] [Round 3] Scientist: Data indicates that drugs can cause harms without safeguards. Consider historical cases involving drugs that produced harm.
+2025-09-19 01:22:27,599 [DEBUG] [MemoryNode] Scientist summary updated.
+2025-09-19 01:22:27,602 [INFO] [Round 4] Philosopher: Philosophically, the value of freedom around youth must be preserved. Surveys and reports on youth highlight community concerns.
+2025-09-19 01:22:27,605 [DEBUG] [MemoryNode] Philosopher summary updated.
+2025-09-19 01:22:27,607 [INFO] [Round 5] Scientist: From a public-safety view, drugs requires structured regulation.
+2025-09-19 01:22:27,611 [DEBUG] [MemoryNode] Scientist summary updated.
+2025-09-19 01:22:27,615 [INFO] [Round 6] Philosopher: Excess control of youth can stifle creativity and moral progress.
+2025-09-19 01:22:27,618 [DEBUG] [MemoryNode] Philosopher summary updated.
+2025-09-19 01:22:27,621 [INFO] [Round 7] Scientist: In conclusion, regulation mitigates risks associated with drugs. Consider historical cases involving drugs that produced harm.
+2025-09-19 01:22:27,624 [DEBUG] [MemoryNode] Scientist summary updated.
+2025-09-19 01:22:27,627 [INFO] [Round 8] Philosopher: In conclusion, preserving freedom around youth supports human dignity. Surveys and reports on youth highlight community concerns.
+2025-09-19 01:22:27,632 [DEBUG] [MemoryNode] Philosopher summary updated.
+2025-09-19 01:22:27,635 [INFO] [Judge] Summary of debate:
+Summary of debate:
+Scientist: AI evidence suggests drugs poses measurable risks and needs oversight. For example, recent studies about drugs show measurable effects. Data indicates that drugs can cause harms without safeguards. Consider historical cases involving drugs that produced harm. From a public-safety view, drugs requires structured regulation. In conclusion, regulation mitigates risks associated with drugs. Consider historical cases involving drugs that produced harm.
+Philosopher: Restricting youth risks undermining autonomy and philosophical inquiry. Philosophically, the value of freedom around youth must be preserved. Surveys and reports on youth highlight community concerns. Excess control of youth can stifle creativity and moral progress. In conclusion, preserving freedom around youth supports human dignity. Surveys and reports on youth highlight community concerns.
+2025-09-19 01:22:27,636 [INFO] [Judge] Winner: Scientist
+2025-09-19 01:22:27,636 [INFO] Reason: Scores tied and validation equal; preferring Scientist for practical grounding.
+2025-09-19 01:22:27,640 [INFO] Wrote final result to final_debate_result.json
+2025-09-19 01:22:27,641 [INFO] Debate complete — outputs written to files.
+2025-09-19 01:22:56,046 [INFO] Wrote Mermaid diagram to diagram.md
+2025-09-19 01:22:56,770 [INFO] Graphviz PNG written: dag_diagram.png
+2025-09-19 01:24:48,566 [INFO] Starting debate between Scientist and Philosopher...
+2025-09-19 01:24:48,566 [INFO] [UserInputNode] Topic set: will ai replace human jobs?
+2025-09-19 01:24:48,566 [INFO] [Round 1] Scientist: AI evidence suggests replace poses measurable risks and needs oversight. Consider historical cases involving replace that produced harm.
+2025-09-19 01:24:48,566 [DEBUG] [MemoryNode] Scientist summary updated.
+2025-09-19 01:24:48,566 [INFO] [Round 2] Philosopher: Restricting human risks undermining autonomy and philosophical inquiry. For example, recent studies about human show measurable effects.
+2025-09-19 01:24:48,582 [DEBUG] [MemoryNode] Philosopher summary updated.
+2025-09-19 01:24:48,582 [INFO] [Round 3] Scientist: Data indicates that jobs can cause harms without safeguards. Surveys and reports on jobs highlight community concerns.
+2025-09-19 01:24:48,582 [DEBUG] [MemoryNode] Scientist summary updated.
+2025-09-19 01:24:48,582 [INFO] [Round 4] Philosopher: Philosophically, the value of freedom around replace must be preserved.
+2025-09-19 01:24:48,582 [DEBUG] [MemoryNode] Philosopher summary updated.
+2025-09-19 01:24:48,598 [INFO] [Round 5] Scientist: From a public-safety view, human requires structured regulation.
+2025-09-19 01:24:48,598 [DEBUG] [MemoryNode] Scientist summary updated.
+2025-09-19 01:24:48,601 [INFO] [Round 6] Philosopher: Excess control of jobs can stifle creativity and moral progress. Surveys and reports on jobs highlight community concerns.
+2025-09-19 01:24:48,601 [DEBUG] [MemoryNode] Philosopher summary updated.
+2025-09-19 01:24:48,601 [INFO] [Round 7] Scientist: In conclusion, regulation mitigates risks associated with replace. For example, recent studies about replace show measurable effects.
+2025-09-19 01:24:48,601 [DEBUG] [MemoryNode] Scientist summary updated.
+2025-09-19 01:24:48,601 [INFO] [Round 8] Philosopher: In conclusion, preserving freedom around human supports human dignity. For example, recent studies about human show measurable effects.
+2025-09-19 01:24:48,613 [DEBUG] [MemoryNode] Philosopher summary updated.
+2025-09-19 01:24:48,613 [INFO] [Judge] Summary of debate:
+Summary of debate:
+Scientist: AI evidence suggests replace poses measurable risks and needs oversight. Consider historical cases involving replace that produced harm. Data indicates that jobs can cause harms without safeguards. Surveys and reports on jobs highlight community concerns. From a public-safety view, human requires structured regulation. In conclusion, regulation mitigates risks associated with replace. For example, recent studies about replace show measurable effects.
+Philosopher: Restricting human risks undermining autonomy and philosophical inquiry. For example, recent studies about human show measurable effects. Philosophically, the value of freedom around replace must be preserved. Excess control of jobs can stifle creativity and moral progress. Surveys and reports on jobs highlight community concerns. In conclusion, preserving freedom around human supports human dignity. For example, recent studies about human show measurable effects.
+2025-09-19 01:24:48,613 [INFO] [Judge] Winner: Scientist
+2025-09-19 01:24:48,613 [INFO] Reason: Scores tied and validation equal; preferring Scientist for practical grounding.
+2025-09-19 01:24:48,613 [INFO] Wrote final result to final_debate_result.json
+2025-09-19 01:24:48,613 [INFO] Debate complete — outputs written to files.
+2025-09-19 01:25:46,712 [INFO] Starting debate between Scientist and Philosopher...
+2025-09-19 01:25:46,714 [INFO] [UserInputNode] Topic set: does mental health effect behaviour?
+2025-09-19 01:25:46,718 [INFO] [Round 1] Scientist: AI evidence suggests does poses measurable risks and needs oversight. Consider historical cases involving does that produced harm.
+2025-09-19 01:25:46,718 [DEBUG] [MemoryNode] Scientist summary updated.
+2025-09-19 01:25:46,722 [INFO] [Round 2] Philosopher: Restricting mental risks undermining autonomy and philosophical inquiry. Surveys and reports on mental highlight community concerns.
+2025-09-19 01:25:46,722 [DEBUG] [MemoryNode] Philosopher summary updated.
+2025-09-19 01:25:46,724 [INFO] [Round 3] Scientist: Data indicates that health can cause harms without safeguards. Consider historical cases involving health that produced harm.
+2025-09-19 01:25:46,729 [DEBUG] [MemoryNode] Scientist summary updated.
+2025-09-19 01:25:46,731 [INFO] [Round 4] Philosopher: Philosophically, the value of freedom around effect must be preserved. Consider historical cases involving effect that produced harm.
+2025-09-19 01:25:46,734 [DEBUG] [MemoryNode] Philosopher summary updated.
+2025-09-19 01:25:46,739 [INFO] [Round 5] Scientist: From a public-safety view, behaviour requires structured regulation. Surveys and reports on behaviour highlight community concerns.
+2025-09-19 01:25:46,743 [DEBUG] [MemoryNode] Scientist summary updated.
+2025-09-19 01:25:46,745 [INFO] [Round 6] Philosopher: Excess control of does can stifle creativity and moral progress. Consider historical cases involving does that produced harm.
+2025-09-19 01:25:46,746 [DEBUG] [MemoryNode] Philosopher summary updated.
+2025-09-19 01:25:46,751 [INFO] [Round 7] Scientist: In conclusion, regulation mitigates risks associated with mental. Consider historical cases involving mental that produced harm.
+2025-09-19 01:25:46,755 [DEBUG] [MemoryNode] Scientist summary updated.
+2025-09-19 01:25:46,758 [INFO] [Round 8] Philosopher: In conclusion, preserving freedom around health supports human dignity.
+2025-09-19 01:25:46,762 [DEBUG] [MemoryNode] Philosopher summary updated.
+2025-09-19 01:25:46,762 [INFO] [Judge] Summary of debate:
+Summary of debate:
+Scientist: AI evidence suggests does poses measurable risks and needs oversight. Consider historical cases involving does that produced harm. Data indicates that health can cause harms without safeguards. Consider historical cases involving health that produced harm. From a public-safety view, behaviour requires structured regulation. Surveys and reports on behaviour highlight community concerns. In conclusion, regulation mitigates risks associated with mental. Consider historical cases involving mental that produced harm.
+Philosopher: Restricting mental risks undermining autonomy and philosophical inquiry. Surveys and reports on mental highlight community concerns. Philosophically, the value of freedom around effect must be preserved. Consider historical cases involving effect that produced harm. Excess control of does can stifle creativity and moral progress. Consider historical cases involving does that produced harm. In conclusion, preserving freedom around health supports human dignity.
+2025-09-19 01:25:46,762 [INFO] [Judge] Winner: Philosopher
+2025-09-19 01:25:46,762 [INFO] Reason: Presented stronger ethical reasoning emphasizing freedom and creativity.
+2025-09-19 01:25:46,762 [INFO] Wrote final result to final_debate_result.json
+2025-09-19 01:25:46,762 [INFO] Debate complete — outputs written to files.
+2025-09-19 01:26:24,466 [INFO] Wrote Mermaid diagram to diagram.md
+2025-09-19 01:26:24,750 [INFO] Graphviz PNG written: dag_diagram.png

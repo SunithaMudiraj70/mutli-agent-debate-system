@@ -1,0 +1,25 @@
+// Multi-Agent Debate DAG
+digraph {
+	bgcolor=white rankdir=LR
+	U [label="UserInputNode
+(Topic input)"]
+	V [label="ValidationNode
+(turn checks)"]
+	S [label="AgentNode (Scientist)
++ MemoryNode"]
+	P [label="AgentNode (Philosopher)
++ MemoryNode"]
+	J [label="JudgeNode
+(Summary & Winner)"]
+	L [label="Logger & Snapshots
+(debate_log.txt, JSONL)"]
+	U -> V
+	V -> S
+	S -> V [label="Next turn → Philosopher"]
+	V -> P
+	P -> V [label="Next turn → Scientist"]
+	V -> J [label="After 8 rounds"]
+	S -> L [style=dashed]
+	P -> L [style=dashed]
+	J -> L [style=dashed]
+}
